@@ -17,6 +17,8 @@ DerivedData
 *.ipa
 *.xcuserstate
 
+
+###pod
 *.xcworkspace
 pods
 Pods.xcconfig
