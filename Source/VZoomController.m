@@ -198,7 +198,6 @@
         UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"提示" message:@"已存入手机相册" delegate:nil cancelButtonTitle:nil otherButtonTitles:@"确定", nil];
         [alert show];
     }else{
-
         UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"提示" message:@"保存失败" delegate:nil cancelButtonTitle:nil otherButtonTitles:@"确定", nil];
         [alert show];
     }
